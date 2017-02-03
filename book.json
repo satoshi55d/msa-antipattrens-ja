@@ -1,0 +1,14 @@
+{
+    "root": ".",
+    "title": "MSA AntiPatters and Pitfalls",
+    "author": "MSA研究会",
+    "language": "ja",
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css"
+    },
+    "plugins": ["-sharing","hide-published-with"],
+    "pdf": {
+        "fontSize": 15
+    }
+}
