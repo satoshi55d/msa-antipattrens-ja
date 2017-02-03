@@ -31,7 +31,6 @@ gitbook serve
 ## Webページ作成 
 コンテンツ作成後、コンテンツホーム[^*]で下記コマンドを実行し、ビルドを行う。
 ```
-cd C:\GitBook
 gitbook build
 ```
 
