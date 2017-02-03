@@ -1,0 +1,20 @@
+#section-, .font-family-1 .book-summary {
+  font-family: 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+}
+h1 {
+  color: #3C79BF;
+}
+
+h2 {
+  color: #3C79BF;
+}
+
+h3 {
+  color: #3C79BF;
+  border-bottom: 1px solid #eee;
+}
+
+h4 {
+  color: #6B6B6B;
+  border-bottom: 1px solid #eee;
+}

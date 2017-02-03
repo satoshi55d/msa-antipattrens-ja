@@ -1,0 +1,21 @@
+body {
+  font-family: 'IPAPGothic','Noto Sans';
+}
+
+h1 {
+  color: #3C79BF;
+}
+
+h2 {
+  color: #3C79BF;
+}
+
+h3 {
+  color: #3C79BF;
+  border-bottom: 1px solid #eee;
+}
+
+h4 {
+  color: #6B6B6B;
+  border-bottom: 1px solid #eee;
+}
