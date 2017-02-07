@@ -15,7 +15,7 @@
 * [4. Reach-in Reporting AntiPattern](README.md)
 
 ## Pitfalls
-* [5. Grains of Sand Pitfall](README.md)
+* [5. Grains of Sand Pitfall](Pitfalls/GrainsOfSand/README.md)
 
 * [6. Developer Without a Cause Pitfall](README.md)
 
