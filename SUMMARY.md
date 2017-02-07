@@ -16,6 +16,9 @@
 
 ## Pitfalls
 * [5. Grains of Sand Pitfall](Pitfalls/GrainsOfSand/README.md)
+  * [Analyzing Service Scope and Function](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
+  * [Analyzing Database Transactions](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
+  * [Analyzing Service Choreography](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
 
 * [6. Developer Without a Cause Pitfall](README.md)
 
