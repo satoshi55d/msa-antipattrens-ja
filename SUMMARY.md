@@ -8,7 +8,9 @@
   * [Too Many Data Migrations](AntiPatterns/Data-DrivenMigration/TooManyDataMigrations.md)
   * [Functionality First, Data Last](AntiPatterns/Data-DrivenMigration/FunctionalityFirstDataLast.md)  
 
-* [2. The Timeout AntiPattern](README.md)
+* [2. The Timeout AntiPattern](AntiPatterns/TheTimeout/README.md)
+  * [Using Timeout Values](AntiPatterns/TheTimeout/UsingTimeoutValues.md)
+  * [Using The Circuit Breaker Pattern](AntiPatterns/TheTimeout/UsingTheCircuitBreakerPattern.md)
 
 * [3. The "I Was Taught to Share" AntiPattern](README.md)
 
