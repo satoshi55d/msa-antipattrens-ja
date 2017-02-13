@@ -22,7 +22,9 @@
   * [Analyzing Database Transactions](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
   * [Analyzing Service Choreography](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
 
-* [6. Developer Without a Cause Pitfall](README.md)
+* [6. Developer Without a Cause Pitfall](Pitfalls/DeveloperWithoutACause/README.md)
+  * [Making The Wrong Decision](Pitfalls/DeveloperWithoutACause/MakingTheWrongDecision.md)
+  * [Understanding Business Drivers](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
 
 * [7. Jump on the Bandwagon Pitfall](README.md)
 
