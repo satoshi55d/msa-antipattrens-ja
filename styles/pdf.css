@@ -11,11 +11,8 @@ h2 {
 }
 
 h3 {
+  text-align: right;
   color: #3C79BF;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ff1493;
 }
 
-h4 {
-  color: #6B6B6B;
-  border-bottom: 1px solid #eee;
-}
