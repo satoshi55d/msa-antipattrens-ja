@@ -38,10 +38,10 @@
 サービス応答性が通常状態に戻ったら、ブレーカーは上がってすべてのトランザクションを通過させるのです。
 
 サーキットブレーカーパターンのオープンソース実装は、NetflixのHystrixやGitHubのplethora等いくつか存在します。
-AkkaフレームワークにはCircuitBreakerクラスとしてサーキットブレーカー実装が含まれています。
+[Akkaフレームワーク](http://akka.io/)にはCircuitBreakerクラスとしてサーキットブレーカー実装が含まれています。
 
 下記の文献にて、サーキットブレーカーについてより詳細な情報を確認することができます。
 
 * Michael Nygardの良著『Release It!』
-* Martin Fowlerのサーキットブレーカーに関するブログ記事
-* Microsoft MSDN library
+* Martin Fowlerの[サーキットブレーカーに関するブログ記事](https://martinfowler.com/bliki/CircuitBreaker.html)
+* [Microsoft MSDN library](https://msdn.microsoft.com/en-us/library/dn589784.aspx)
