@@ -17,19 +17,19 @@
 * [4. Reach-in Reporting AntiPattern](README.md)
 
 ## Pitfalls
-* [5. Grains of Sand Pitfall](Pitfalls/GrainsOfSand/README.md)
-  * [Analyzing Service Scope and Function](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
-  * [Analyzing Database Transactions](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
-  * [Analyzing Service Choreography](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
+* [5. 「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
+  * [サービスの範囲と機能の分析](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
+  * [データベーストランザクションの分析](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
+  * [サービス・コレオグラフィーの分析](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
 
-* [6. Developer Without a Cause Pitfall](Pitfalls/DeveloperWithoutACause/README.md)
-  * [Making The Wrong Decision](Pitfalls/DeveloperWithoutACause/MakingTheWrongDecision.md)
-  * [Understanding Business Drivers](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
+* [6. 「理由なき開発者」の落とし穴](Pitfalls/DeveloperWithoutACause/README.md)
+  * [誤った判断](Pitfalls/DeveloperWithoutACause/MakingTheWrongDecision.md)
+  * [運営の理解](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
 
-* [7. Jump on the Bandwagon Pitfall](README.md)
+* [7. Jump on the Bandwagon Pitfall](Pitfalls/JumpOnTheBandwagon/README.md)
 
-* [8. The Static Contract Pitfall](README.md)
+* [8. The Static Contract Pitfall](Pitfalls/TheStaticContract/README.md)
 
-* [9. Are We There Yet Pitfall](README.md)
+* [9. Are We There Yet Pitfall](Pitfalls/AreWeThereYet/README.md)
 
-* [10. Give It a Rest Pitfall](README.md)
+* [10. Give It a Rest Pitfall](Pitfalls/GiveItAResult/README.md)
