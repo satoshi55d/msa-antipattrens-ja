@@ -4,15 +4,17 @@
 * [Preface](Preface/README.md)
 
 ## AntiPatterns
-* [1. Data-Driven Migration AntiPattern](AntiPatterns/Data-DrivenMigration/README.md)
-  * [Too Many Data Migrations](AntiPatterns/Data-DrivenMigration/TooManyDataMigrations.md)
-  * [Functionality First, Data Last](AntiPatterns/Data-DrivenMigration/FunctionalityFirstDataLast.md)  
+* [1. データ駆動移行アンチパターン](AntiPatterns/Data-DrivenMigration/README.md)
+  * [膨大なデータ移行](AntiPatterns/Data-DrivenMigration/TooManyDataMigrations.md)
+  * [機能を最初に、データは最後に](AntiPatterns/Data-DrivenMigration/FunctionalityFirstDataLast.md)  
 
-* [2. The Timeout AntiPattern](AntiPatterns/TheTimeout/README.md)
-  * [Using Timeout Values](AntiPatterns/TheTimeout/UsingTimeoutValues.md)
-  * [Using The Circuit Breaker Pattern](AntiPatterns/TheTimeout/UsingTheCircuitBreakerPattern.md)
+* [2. タイムアウトアンチパターン](AntiPatterns/TheTimeout/README.md)
+  * [タイムアウト値を使用する](AntiPatterns/TheTimeout/UsingTimeoutValues.md)
+  * [サーキットブレーカーパターンを使用する](AntiPatterns/TheTimeout/UsingTheCircuitBreakerPattern.md)
 
-* [3. The "I Was Taught to Share" AntiPattern](README.md)
+* [3. ”共有するように言われました”アンチパターン](AntiPatterns/TheIWasTaughtToShare/README.md)
+  * [膨大な依存関係](AntiPatterns/TheIWasTaughtToShare/TooManyDependencies.md)
+  * [共有コードテクニック](AntiPatterns/TheIWasTaughtToShare/TechniquesForSharingCode.md)
 
 * [4. Reach-in Reporting AntiPattern](README.md)
 
