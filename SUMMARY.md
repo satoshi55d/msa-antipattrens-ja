@@ -16,7 +16,9 @@
   * [膨大な依存関係](AntiPatterns/TheIWasTaughtToShare/TooManyDependencies.md)
   * [共有コードテクニック](AntiPatterns/TheIWasTaughtToShare/TechniquesForSharingCode.md)
 
-* [4. Reach-in Reporting AntiPattern](README.md)
+* [4. リーチインレポートアンチパターン](AntiPatterns/Reach-inReporting/README.md)
+  * [マイクロサービスのレポートに関する問題](AntiPatterns/Reach-inReporting/IssuesWithMicroservicesReporting.md)
+  * [非同期イベントプッシュ](AntiPatterns/Reach-inReporting/AsynchronousEventPushing.md)
 
 ## Pitfalls
 * [5. 「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
