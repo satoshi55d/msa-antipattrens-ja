@@ -21,16 +21,19 @@
   * [非同期イベントプッシュ](AntiPatterns/Reach-inReporting/AsynchronousEventPushing.md)
 
 ## Pitfalls
-* [5. 「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
+* [5.「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
   * [サービスの範囲と機能の分析](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
   * [データベーストランザクションの分析](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
   * [サービス・コレオグラフィーの分析](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
 
-* [6. 「理由なき開発者」の落とし穴](Pitfalls/DeveloperWithoutACause/README.md)
+* [6.「理由なき開発者」の落とし穴](Pitfalls/DeveloperWithoutACause/README.md)
   * [誤った判断](Pitfalls/DeveloperWithoutACause/MakingTheWrongDecision.md)
-  * [運営の理解](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
+  * [ビジネス上の推進要因の理解](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
 
-* [7. Jump on the Bandwagon Pitfall](Pitfalls/JumpOnTheBandwagon/README.md)
+* [7.「バンドワゴンへの搭乗」の落とし穴](Pitfalls/JumpOnTheBandwagon/README.md)
+  * [長所と短所](Pitfalls/JumpOnTheBandwagon/AdvantagesAndDisadvantages.md)
+  * [ビジネスニーズとの一致](Pitfalls/JumpOnTheBandwagon/MatchingBusinessNeeds.md)
+  * [他のアーキテクチャパターン](Pitfalls/JumpOnTheBandwagon/OtherArchitecturePatterns.md)
 
 * [8. The Static Contract Pitfall](Pitfalls/TheStaticContract/README.md)
 

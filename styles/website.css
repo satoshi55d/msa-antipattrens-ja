@@ -16,3 +16,10 @@ h3 {
   border-bottom: 1px solid #ff1493;
 }
 
+h4 {
+  color: #808080;
+}
+
+p.indent-1 {
+text-indent: 2em;
+}
