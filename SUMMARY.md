@@ -1,9 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [Preface](Preface/README.md)
+* [序文](README.md)
 
-## AntiPatterns
+## アンチパターン
 * [1. データ駆動移行アンチパターン](AntiPatterns/Data-DrivenMigration/README.md)
   * [膨大なデータ移行](AntiPatterns/Data-DrivenMigration/TooManyDataMigrations.md)
   * [機能を最初に、データは最後に](AntiPatterns/Data-DrivenMigration/FunctionalityFirstDataLast.md)  
@@ -20,7 +19,7 @@
   * [マイクロサービスのレポートに関する問題](AntiPatterns/Reach-inReporting/IssuesWithMicroservicesReporting.md)
   * [非同期イベントプッシュ](AntiPatterns/Reach-inReporting/AsynchronousEventPushing.md)
 
-## Pitfalls
+## 落とし穴
 * [5.「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
   * [サービスの範囲と機能の分析](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
   * [データベーストランザクションの分析](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
