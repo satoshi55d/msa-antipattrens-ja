@@ -30,7 +30,7 @@
   * [ビジネス上の推進要因の理解](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
 
 * [7.「バンドワゴンへの搭乗」の落とし穴](Pitfalls/JumpOnTheBandwagon/README.md)
-  * [長所と短所](Pitfalls/JumpOnTheBandwagon/AdvantagesAndDisadvantages.md)
+  * [利点と欠点](Pitfalls/JumpOnTheBandwagon/AdvantagesAndDisadvantages.md)
   * [ビジネスニーズとの一致](Pitfalls/JumpOnTheBandwagon/MatchingBusinessNeeds.md)
   * [他のアーキテクチャパターン](Pitfalls/JumpOnTheBandwagon/OtherArchitecturePatterns.md)
 
