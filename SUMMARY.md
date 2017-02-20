@@ -31,10 +31,13 @@
 
 * [7.「バンドワゴンへの搭乗」の落とし穴](Pitfalls/JumpOnTheBandwagon/README.md)
   * [利点と欠点](Pitfalls/JumpOnTheBandwagon/AdvantagesAndDisadvantages.md)
-  * [ビジネスニーズとの一致](Pitfalls/JumpOnTheBandwagon/MatchingBusinessNeeds.md)
+  * [ビジネス要件への適合](Pitfalls/JumpOnTheBandwagon/MatchingBusinessNeeds.md)
   * [他のアーキテクチャパターン](Pitfalls/JumpOnTheBandwagon/OtherArchitecturePatterns.md)
 
-* [8. The Static Contract Pitfall](Pitfalls/TheStaticContract/README.md)
+* [8.「変わらない契約」の落とし穴](Pitfalls/TheStaticContract/README.md)
+  * [契約の変更](Pitfalls/TheStaticContract/ChangingAContract.md)
+  * [ヘッダー・バージョニング](Pitfalls/TheStaticContract/HeaderVersioning.md)  
+  * [スキーマ・バージョニング](Pitfalls/TheStaticContract/SchemaVersioning.md)
 
 * [9. Are We There Yet Pitfall](Pitfalls/AreWeThereYet/README.md)
 
