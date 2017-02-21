@@ -20,21 +20,21 @@
   * [非同期イベントプッシュ](AntiPatterns/Reach-inReporting/AsynchronousEventPushing.md)
 
 ## 落とし穴
-* [5.「砂のごとき細かい粒度」の落とし穴](Pitfalls/GrainsOfSand/README.md)
+* [5.”砂のごとき細かい粒度”の落とし穴](Pitfalls/GrainsOfSand/README.md)
   * [サービスの範囲と機能の分析](Pitfalls/GrainsOfSand/AnalyzingServiceScopeAndFunction.md)
   * [データベーストランザクションの分析](Pitfalls/GrainsOfSand/AnalyzingDatabaseTransactions.md)
   * [サービス・コレオグラフィーの分析](Pitfalls/GrainsOfSand/AnalyzingServiceChoreography.md)
 
-* [6.「理由なき開発者」の落とし穴](Pitfalls/DeveloperWithoutACause/README.md)
+* [6.”理由なき開発者”の落とし穴](Pitfalls/DeveloperWithoutACause/README.md)
   * [誤った判断](Pitfalls/DeveloperWithoutACause/MakingTheWrongDecision.md)
   * [ビジネス上の推進要因の理解](Pitfalls/DeveloperWithoutACause/UnderstandingBusinessDrivers.md)
 
-* [7.「バンドワゴンへの搭乗」の落とし穴](Pitfalls/JumpOnTheBandwagon/README.md)
+* [7.”バンドワゴンへの搭乗”の落とし穴](Pitfalls/JumpOnTheBandwagon/README.md)
   * [利点と欠点](Pitfalls/JumpOnTheBandwagon/AdvantagesAndDisadvantages.md)
   * [ビジネス要件への適合](Pitfalls/JumpOnTheBandwagon/MatchingBusinessNeeds.md)
   * [他のアーキテクチャパターン](Pitfalls/JumpOnTheBandwagon/OtherArchitecturePatterns.md)
 
-* [8.「変わらない契約」の落とし穴](Pitfalls/TheStaticContract/README.md)
+* [8.”変わらない契約”の落とし穴](Pitfalls/TheStaticContract/README.md)
   * [契約の変更](Pitfalls/TheStaticContract/ChangingAContract.md)
   * [ヘッダー・バージョニング](Pitfalls/TheStaticContract/HeaderVersioning.md)  
   * [スキーマ・バージョニング](Pitfalls/TheStaticContract/SchemaVersioning.md)
