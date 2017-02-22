@@ -9,6 +9,7 @@ npm-debug.log*
 
 # Gitbook
 /_book/
+book.pdf
 
 # VsCode
 /.vscode/
