@@ -3,7 +3,7 @@
 * [序文](README.md)
 
 ## アンチパターン
-* [1. データ駆動移行アンチパターン](AntiPatterns/Data-DrivenMigration/README.md)
+* [1. データ駆動型移行アンチパターン](AntiPatterns/Data-DrivenMigration/README.md)
   * [膨大なデータ移行](AntiPatterns/Data-DrivenMigration/TooManyDataMigrations.md)
   * [機能を最初に、データは最後に](AntiPatterns/Data-DrivenMigration/FunctionalityFirstDataLast.md)  
 
