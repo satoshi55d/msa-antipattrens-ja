@@ -39,6 +39,13 @@
   * [ヘッダー・バージョニング](Pitfalls/TheStaticContract/HeaderVersioning.md)  
   * [スキーマ・バージョニング](Pitfalls/TheStaticContract/SchemaVersioning.md)
 
-* [9. Are We There Yet Pitfall](Pitfalls/AreWeThereYet/README.md)
+* [9.”まだ着かないの？”の落とし穴](Pitfalls/AreWeThereYet/README.md)
+  * [レイテンシを計測する](Pitfalls/AreWeThereYet/MeasuringLatency.md)
+  * [プロトコルを比較する](Pitfalls/AreWeThereYet/ComparingProtocols.md)
 
 * [10. Give It a Rest Pitfall](Pitfalls/GiveItAResult/README.md)
+  * [非同期リクエスト](Pitfalls/GiveItAResult/AsynchronousRequests.md)
+  * [ブロードキャスト機能](Pitfalls/GiveItAResult/BroadcastCapabilities.md)
+  * [トランザクション要求](Pitfalls/GiveItAResult/TransactedRequests.md)
+
+* [著者紹介](AboutTheAuhor.md)
