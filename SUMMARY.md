@@ -44,8 +44,8 @@
   * [プロトコルを比較する](Pitfalls/AreWeThereYet/ComparingProtocols.md)
 
 * [10. Give It a Rest Pitfall](Pitfalls/GiveItARest/README.md)
-  * [非同期リクエスト](Pitfalls/GiveItAResult/AsynchronousRequests.md)
-  * [ブロードキャスト機能](Pitfalls/GiveItAResult/BroadcastCapabilities.md)
-  * [トランザクション要求](Pitfalls/GiveItAResult/TransactedRequests.md)
+  * [非同期リクエスト](Pitfalls/GiveItARest/AsynchronousRequests.md)
+  * [ブロードキャスト機能](Pitfalls/GiveItARest/BroadcastCapabilities.md)
+  * [トランザクション要求](Pitfalls/GiveItARest/TransactedRequests.md)
 
 * [著者紹介](AboutTheAuhor.md)
