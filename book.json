@@ -9,6 +9,6 @@
     },
     "plugins": ["-sharing","hide-published-with"],
     "pdf": {
-        "fontSize": 14
+        "fontSize": 16
     }
 }
