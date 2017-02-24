@@ -43,9 +43,9 @@
   * [レイテンシを計測する](Pitfalls/AreWeThereYet/MeasuringLatency.md)
   * [プロトコルを比較する](Pitfalls/AreWeThereYet/ComparingProtocols.md)
 
-* [10. Give It a Rest Pitfall](Pitfalls/GiveItARest/README.md)
+* [10. ”REST依存”の落とし穴](Pitfalls/GiveItARest/README.md)
   * [非同期リクエスト](Pitfalls/GiveItARest/AsynchronousRequests.md)
   * [ブロードキャスト機能](Pitfalls/GiveItARest/BroadcastCapabilities.md)
   * [トランザクション要求](Pitfalls/GiveItARest/TransactedRequests.md)
 
-* [著者紹介](AboutTheAuhor.md)
+* [著者紹介](AboutTheAuthor.md)
