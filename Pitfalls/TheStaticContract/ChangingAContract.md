@@ -17,7 +17,7 @@
 
 この場合、株式を購入するには、acct：仲介アカウント、cusip：CUSIPコード（有価証券識別コード[Committee on Uniform Securities Identification Procedures]）、
 および最後に100より大きいshares：株式数、を指定しなければなりません。
-RESTを使用して仲介アカウント12345に対してApple株式1000株（CUSIPコード 037833100）を購入するように要求するコードは次のようになります
+RESTを使用して仲介アカウント12345に対してApple株式1000株（CUSIPコード 037833100）を購入するようにリクエストするコードは次のようになります
 
 ```javascript
 POST /trade/buy
