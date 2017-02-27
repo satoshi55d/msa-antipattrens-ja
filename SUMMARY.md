@@ -11,7 +11,7 @@
   * [タイムアウト値を使用する](AntiPatterns/TheTimeout/UsingTimeoutValues.md)
   * [サーキットブレーカーパターンを使用する](AntiPatterns/TheTimeout/UsingTheCircuitBreakerPattern.md)
 
-* [3. ”共有するように言われました”アンチパターン](AntiPatterns/TheIWasTaughtToShare/README.md)
+* [3. ”共有するようにいわれました”アンチパターン](AntiPatterns/TheIWasTaughtToShare/README.md)
   * [膨大な依存関係](AntiPatterns/TheIWasTaughtToShare/TooManyDependencies.md)
   * [共有コードテクニック](AntiPatterns/TheIWasTaughtToShare/TechniquesForSharingCode.md)
 
