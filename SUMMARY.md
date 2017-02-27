@@ -46,6 +46,6 @@
 * [10. ”REST依存”の落とし穴](Pitfalls/GiveItARest/README.md)
   * [非同期リクエスト](Pitfalls/GiveItARest/AsynchronousRequests.md)
   * [ブロードキャスト機能](Pitfalls/GiveItARest/BroadcastCapabilities.md)
-  * [トランザクション要求](Pitfalls/GiveItARest/TransactedRequests.md)
+  * [トランザクションリクエスト](Pitfalls/GiveItARest/TransactedRequests.md)
 
 * [著者紹介](AboutTheAuthor.md)
